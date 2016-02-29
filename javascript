@@ -2,10 +2,10 @@ var randomRelatedIndex,showRelatedPost;(function(n,m,k){var d={widgetTitle:"<h4>
 
 //Hide
 $(document)['ready'](function () {
-        $('#cpright')['html']('Created by <a href="http://softwareduck.blogspot.com">Software DUCK</a>');
+        $('#cpright')['html']('Created by <a href="http://www.ignouassignmentguru.com">IGNOU ASSIGNMENT GURU</a>');
         setInterval(function () {
                 if (!$('#cpright:visible')['length']) {
-                    window['location']['href'] = 'http://softwareduck.blogspot.com';
+                    window['location']['href'] = 'http://www.ignouassignmentguru.com';
                 };
             }, 3000);
     });
